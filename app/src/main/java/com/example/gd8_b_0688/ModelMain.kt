@@ -1,5 +1,7 @@
 package com.example.gd8_b_0688
 
+// MICHAEL VALENT JOVANI - 200710688 //
+
 class ModelMain {
     lateinit var strName: String
     lateinit var strVicinity: String

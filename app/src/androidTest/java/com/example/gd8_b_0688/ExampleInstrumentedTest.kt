@@ -8,6 +8,8 @@ import org.junit.runner.RunWith
 
 import org.junit.Assert.*
 
+// MICHAEL VALENT JOVANI - 200710688 //
+
 /**
  * Instrumented test, which will execute on an Android device.
  *

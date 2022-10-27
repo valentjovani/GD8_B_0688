@@ -45,3 +45,5 @@ dependencies {
     //maps
     implementation 'org.osmdroid:osmdroid-android:6.1.11'
 }
+
+// MICHAEL VALENT JOVANI - 200710688 //

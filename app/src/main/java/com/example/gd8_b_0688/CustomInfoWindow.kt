@@ -5,6 +5,8 @@ import org.osmdroid.views.MapView
 import org.osmdroid.views.overlay.Marker
 import org.osmdroid.views.overlay.infowindow.InfoWindow
 
+// MICHAEL VALENT JOVANI - 200710688 //
+
 class CustomInfoWindow(mapView: MapView?) : InfoWindow(R.layout.layout_tooltip, mapView) {
     override fun onClose() {
 
