@@ -5,8 +5,6 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    // MICHAEL VALENT JOVANI - 200710688 //
-
     <androidx.cardview.widget.CardView
         android:id="@+id/cvContent"
         android:layout_width="300dp"
